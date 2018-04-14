@@ -1,0 +1,19 @@
+.search{
+
+    width: 50%;
+    height: 50%;
+    
+}
+
+.searchContainer{
+    margin-left: 5%;
+  }
+.searchContainer h1{
+    color: black;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 52px;
+    padding-left: 7%;
+}
+.row{
+    max-width: 1545px;
+}
