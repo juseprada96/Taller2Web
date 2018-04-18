@@ -1,19 +1,24 @@
 .search{
-
     width: 50%;
     height: 50%;
-    
 }
 
 .searchContainer{
-    margin-left: 5%;
+    margin-left: 35%;
   }
 .searchContainer h1{
-    color: black;
+    color: aliceblue;
     font-family: 'Gochi Hand', cursive;
     font-size: 52px;
     padding-left: 7%;
 }
-.row{
+.search-row{
     max-width: 1545px;
+    min-height: 117px;
+    padding-bottom: 2%;
+    margin-bottom: 3%;
+    background-color: #003580;
+}
+.but{
+    padding-top: 1%;
 }
